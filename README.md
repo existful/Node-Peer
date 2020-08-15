@@ -1,3 +1,6 @@
+![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/thorsday/peer_node?style=for-the-badge) 
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/thorsday/peer_node?style=for-the-badge)
+
 # MetaHash network Peer node 2
 
 This repository contains second generation of the Peer Node. 
